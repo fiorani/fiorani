@@ -1,11 +1,11 @@
 ### Hi there 👋
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paniniDot&theme=dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fiorani&theme=dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paniniDot&theme=dracula&bg_color=45,0F2027,203A43,2C5364)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiorani&theme=dracula&bg_color=45,0F2027,203A43,2C5364)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paniniDot&hide=html,css,xslt,makefile&langs_count=30&theme=dracula&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiorani&hide=html,css,xslt,makefile&langs_count=30&theme=dracula&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
